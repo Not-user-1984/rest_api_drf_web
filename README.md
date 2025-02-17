@@ -150,6 +150,7 @@ docker exec -it django_dogs_ninja_web pytest
 
 ---
 
+
 ## Структура проекта
 
 ```
