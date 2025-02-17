@@ -28,7 +28,6 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'dogs_api',
-    'ninja',
 ]
 
 MIDDLEWARE = [
